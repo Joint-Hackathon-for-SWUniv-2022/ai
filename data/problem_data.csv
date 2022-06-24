@@ -1,0 +1,371 @@
+problem_id,problem_level,problem_is_solvable,problem_average_tries,problem_tag
+1000,1,TRUE,2.3817,"['implementation', 'arithmetic', 'math']"
+1001,1,TRUE,1.4003,"['implementation', 'arithmetic', 'math']"
+1003,8,TRUE,3.1726,['dp']
+1008,1,TRUE,2.8774,"['implementation', 'arithmetic', 'math']"
+1009,4,TRUE,4.0896,"['implementation', 'math']"
+1010,6,TRUE,2.0673,"['combinatorics', 'dp', 'math']"
+1012,9,TRUE,2.7078,"['graphs', 'graph_traversal', 'bfs', 'dfs']"
+1013,11,TRUE,2.8084,"['regex', 'string']"
+1032,5,TRUE,1.8512,"['implementation', 'string']"
+1076,4,TRUE,2.3143,['implementation']
+1100,4,TRUE,1.421,"['implementation', 'string']"
+1110,5,TRUE,2.1469,"['implementation', 'math']"
+1111,13,TRUE,5.4553,"['bruteforcing', 'case_work', 'implementation', 'math']"
+1149,10,TRUE,1.9558,['dp']
+1152,4,TRUE,3.1876,"['implementation', 'string']"
+1157,5,TRUE,2.5497,"['implementation', 'string']"
+1167,14,TRUE,2.9394,"['dfs', 'graphs', 'graph_traversal', 'trees']"
+1181,6,TRUE,2.4782,"['sorting', 'string']"
+1193,5,TRUE,1.9616,"['implementation', 'math']"
+1205,6,TRUE,4.4504,['implementation']
+1229,11,TRUE,2.3789,"['dp', 'math', 'precomputation']"
+1244,8,TRUE,5.0663,"['implementation', 'simulation']"
+1254,9,TRUE,2.3202,"['bruteforcing', 'string']"
+1259,5,TRUE,1.7028,"['implementation', 'string']"
+1260,9,TRUE,2.8355,"['graphs', 'graph_traversal', 'bfs', 'dfs']"
+1300,14,TRUE,2.6732,"['binary_search', 'parametric_search']"
+1309,10,TRUE,2.0833,['dp']
+1316,6,TRUE,1.9202,"['implementation', 'string']"
+1325,10,TRUE,5.0673,"['bfs', 'dfs', 'graphs', 'graph_traversal']"
+1330,1,TRUE,2.0183,['implementation']
+1356,5,TRUE,2.2504,"['arithmetic', 'implementation', 'math', 'string']"
+1388,8,TRUE,1.6091,"['bfs', 'dfs', 'graphs', 'graph_traversal']"
+1389,10,TRUE,1.7896,"['bfs', 'floyd_warshall', 'graphs', 'graph_traversal']"
+1405,11,TRUE,2.7343,"['backtracking', 'bruteforcing', 'dfs', 'graphs', 'graph_traversal', 'math']"
+1427,6,TRUE,1.5709,"['sorting', 'string']"
+1446,10,TRUE,2.1176,"['dijkstra', 'dp', 'graphs']"
+1463,8,TRUE,3.1097,['dp']
+1471,16,TRUE,2,"['dfs', 'dp', 'graphs', 'graph_traversal', 'scc']"
+1475,6,TRUE,2.2445,['implementation']
+1495,10,TRUE,2.8276,['dp']
+1516,13,TRUE,2.0751,"['dp', 'graphs', 'topological_sorting']"
+1520,12,TRUE,3.5742,"['dfs', 'dp', 'graphs', 'graph_traversal']"
+1535,9,TRUE,1.9106,"['bruteforcing', 'dp', 'knapsack']"
+1541,9,TRUE,2.0005,"['greedy', 'math', 'parsing', 'string']"
+1543,7,TRUE,2.4653,"['bruteforcing', 'greedy', 'string']"
+1547,3,TRUE,1.3998,"['implementation', 'simulation']"
+1550,4,TRUE,1.5412,"['math', 'implementation']"
+1563,12,TRUE,1.9578,['dp']
+1577,11,TRUE,3.5878,['dp']
+1654,9,TRUE,4.7383,"['binary_search', 'parametric_search']"
+1681,4,TRUE,1.649,"['bruteforcing', 'implementation']"
+1697,10,TRUE,3.9939,"['bfs', 'graphs', 'graph_traversal']"
+1707,12,TRUE,4.2716,"['bfs', 'dfs', 'graphs', 'graph_traversal']"
+1743,10,TRUE,2.1005,"['bfs', 'dfs', 'graphs', 'graph_traversal']"
+1748,7,TRUE,2.0319,"['implementation', 'math']"
+1764,7,TRUE,2.4754,"['data_structures', 'hash_set', 'sorting', 'string']"
+1790,10,TRUE,3.1486,"['implementation', 'math']"
+1904,8,TRUE,3.1043,['dp']
+1912,9,TRUE,2.9745,['dp']
+1913,8,TRUE,2.0679,['implementation']
+1915,12,TRUE,3.393,['dp']
+1919,4,TRUE,1.6426,"['implementation', 'string']"
+1920,7,TRUE,3.347,"['binary_search', 'data_structures']"
+1924,5,TRUE,2.093,"['implementation', 'math']"
+1926,10,TRUE,2.3864,"['bfs', 'dfs', 'graphs', 'graph_traversal']"
+1932,10,TRUE,1.7044,['dp']
+1937,13,TRUE,3.3523,"['dfs', 'dp', 'graphs', 'graph_traversal']"
+1941,13,TRUE,2.0427,"['backtracking', 'bfs', 'bruteforcing', 'combinatorics', 'dfs', 'graphs', 'graph_traversal', 'math']"
+1947,13,TRUE,2.0864,"['combinatorics', 'dp', 'math']"
+1965,9,TRUE,2.0482,['dp']
+1966,8,TRUE,1.7403,"['data_structures', 'implementation', 'queue', 'simulation']"
+1967,12,TRUE,2.3352,"['dfs', 'graphs', 'graph_traversal', 'trees']"
+1969,6,TRUE,1.7512,"['bruteforcing', 'greedy', 'implementation', 'string']"
+1972,8,TRUE,1.6986,"['data_structures', 'hash_set', 'implementation', 'string']"
+1977,4,TRUE,2.0672,"['bruteforcing', 'implementation', 'math']"
+1987,12,TRUE,3.4355,"['backtracking', 'dfs', 'graphs', 'graph_traversal']"
+2096,11,TRUE,2.7194,"['dp', 'sliding_window']"
+2108,8,TRUE,3.9341,"['implementation', 'math', 'sorting']"
+2110,11,TRUE,2.6326,"['binary_search', 'parametric_search']"
+2143,13,TRUE,3.3112,"['binary_search', 'prefix_sum']"
+2146,12,TRUE,3.0006,"['bfs', 'graphs', 'graph_traversal']"
+2156,10,TRUE,3.063,['dp']
+2178,10,TRUE,2.4398,"['bfs', 'graphs', 'graph_traversal']"
+2193,8,TRUE,2.5183,['dp']
+2206,12,TRUE,4.3856,"['bfs', 'graphs', 'graph_traversal']"
+2225,11,TRUE,2.3556,"['dp', 'math']"
+2293,11,TRUE,2.2109,['dp']
+2294,11,TRUE,3.4827,['dp']
+2344,11,TRUE,1.4387,"['bruteforcing', 'implementation', 'simulation']"
+2438,1,TRUE,1.5993,['implementation']
+2439,2,TRUE,1.7733,['implementation']
+2440,2,TRUE,1.4687,['implementation']
+2441,3,TRUE,1.3489,['implementation']
+2442,3,TRUE,1.7907,['implementation']
+2443,3,TRUE,1.3314,['implementation']
+2455,3,TRUE,1.3118,"['arithmetic', 'implementation', 'math']"
+2468,10,TRUE,2.9252,"['bfs', 'bruteforcing', 'dfs', 'graphs', 'graph_traversal']"
+2469,11,TRUE,2.6072,"['implementation', 'string']"
+2470,11,TRUE,3.2744,"['binary_search', 'sorting', 'two_pointer']"
+2475,1,TRUE,1.3364,"['implementation', 'arithmetic', 'math']"
+2477,8,TRUE,2.6131,"['geometry', 'implementation']"
+2503,8,TRUE,2.1358,"['bruteforcing', 'implementation']"
+2526,4,TRUE,2.4705,['implementation']
+2557,1,TRUE,2.5032,['implementation']
+2558,1,TRUE,1.3576,"['implementation', 'arithmetic', 'math']"
+2562,3,TRUE,2.1754,['implementation']
+2563,5,TRUE,1.4072,['implementation']
+2564,10,TRUE,1.9188,"['case_work', 'implementation']"
+2565,11,TRUE,2.1288,['dp']
+2571,13,TRUE,1.948,"['implementation', 'prefix_sum']"
+2573,12,TRUE,3.8707,"['bfs', 'dfs', 'graphs', 'graph_traversal', 'implementation']"
+2576,3,TRUE,1.8103,"['implementation', 'math']"
+2577,4,TRUE,1.7141,"['arithmetic', 'implementation', 'math']"
+2578,6,TRUE,2.1531,['implementation']
+2579,8,TRUE,2.9295,['dp']
+2583,10,TRUE,1.766,"['bfs', 'dfs', 'graphs', 'graph_traversal']"
+2587,4,TRUE,1.5016,"['arithmetic', 'implementation', 'math']"
+2589,11,TRUE,2.6584,"['bfs', 'bruteforcing', 'graphs', 'graph_traversal']"
+2605,4,TRUE,1.4262,"['data_structures', 'implementation', 'linked_list']"
+2606,8,TRUE,2.1774,"['graphs', 'graph_traversal', 'bfs', 'dfs']"
+2608,11,TRUE,2.0369,"['implementation', 'math', 'string']"
+2631,12,TRUE,1.549,['dp']
+2644,9,TRUE,2.0917,"['graphs', 'graph_traversal', 'bfs', 'dfs']"
+2665,12,TRUE,1.8093,"['bfs', 'dijkstra', 'graphs', 'graph_traversal']"
+2667,10,TRUE,2.4607,"['bfs', 'dfs', 'graphs', 'graph_traversal']"
+2670,7,TRUE,2.782,"['bruteforcing', 'dp']"
+2675,4,TRUE,1.9674,"['implementation', 'string']"
+2739,1,TRUE,1.9571,"['implementation', 'math']"
+2740,6,TRUE,1.4294,"['implementation', 'linear_algebra', 'math']"
+2741,1,TRUE,1.7852,['implementation']
+2742,3,TRUE,1.4612,['implementation']
+2743,1,TRUE,1.1877,"['implementation', 'string']"
+2747,4,TRUE,2.0605,"['implementation', 'math']"
+2748,5,TRUE,2.51,"['dp', 'math']"
+2750,4,TRUE,1.715,"['sorting', 'implementation']"
+2753,1,TRUE,1.8958,"['implementation', 'arithmetic', 'math']"
+2754,1,TRUE,1.614,"['implementation', 'string']"
+2775,5,TRUE,1.7645,"['implementation', 'math']"
+2805,9,TRUE,3.9112,"['binary_search', 'parametric_search']"
+2839,7,TRUE,2.8546,"['dp', 'greedy', 'math']"
+2845,2,TRUE,1.4254,"['implementation', 'arithmetic', 'math']"
+2908,4,TRUE,1.4315,"['implementation', 'math']"
+2914,3,TRUE,1.2548,"['implementation', 'arithmetic', 'math']"
+2920,4,TRUE,1.8155,['implementation']
+2935,3,TRUE,1.7257,"['arithmetic', 'math', 'string']"
+2941,6,TRUE,2.2349,"['implementation', 'string']"
+3003,1,TRUE,1.4027,"['implementation', 'arithmetic', 'math']"
+3009,3,TRUE,1.3653,"['geometry', 'implementation']"
+3046,2,TRUE,1.2543,"['implementation', 'arithmetic', 'math']"
+3055,12,TRUE,3.1459,"['bfs', 'graphs', 'graph_traversal']"
+3107,10,TRUE,2.7219,"['implementation', 'string']"
+3109,14,TRUE,3.2158,"['dfs', 'graphs', 'graph_traversal', 'greedy']"
+3190,12,TRUE,2.5494,"['data_structures', 'deque', 'implementation', 'queue', 'simulation']"
+3584,12,TRUE,1.9025,"['dfs', 'graphs', 'graph_traversal', 'lca', 'trees']"
+4101,1,TRUE,1.8463,['implementation']
+4358,9,TRUE,2.7459,"['data_structures', 'hash_set', 'string', 'tree_set']"
+4396,6,TRUE,3.2373,"['implementation', 'parsing', 'string']"
+4641,5,TRUE,1.4557,"['bruteforcing', 'implementation']"
+4673,6,TRUE,2.0498,"['bruteforcing', 'implementation', 'math']"
+4781,12,TRUE,4.4433,"['dp', 'knapsack']"
+4889,10,TRUE,2.1396,"['data_structures', 'greedy', 'stack', 'string']"
+4949,7,TRUE,3.1017,"['data_structures', 'stack', 'string']"
+4963,9,TRUE,2.0268,"['graphs', 'graph_traversal', 'bfs', 'dfs']"
+5014,11,TRUE,2.9991,"['bfs', 'graphs', 'graph_traversal']"
+5052,12,TRUE,3.3679,"['data_structures', 'sorting', 'string', 'trees', 'trie']"
+5337,1,TRUE,1.4503,['implementation']
+5338,1,TRUE,1.2668,['implementation']
+5339,1,TRUE,1.4811,['implementation']
+5355,4,TRUE,1.6415,"['arithmetic', 'implementation', 'math']"
+5427,12,TRUE,4.2375,"['bfs', 'graphs', 'graph_traversal']"
+5430,11,TRUE,5.0159,"['deque', 'parsing', 'implementation', 'string', 'data_structures']"
+5554,2,TRUE,1.1945,"['implementation', 'arithmetic', 'math']"
+5557,11,TRUE,2.4246,['dp']
+5622,4,TRUE,1.7215,['implementation']
+6359,4,TRUE,1.4311,"['implementation', 'math', 'number_theory', 'simulation']"
+6749,2,TRUE,1.1532,"['implementation', 'math']"
+6996,5,TRUE,1.9422,"['implementation', 'sorting', 'string']"
+7287,1,TRUE,1.9925,['implementation']
+7453,14,TRUE,4.4365,"['binary_search', 'mitm', 'sorting', 'two_pointer']"
+7562,10,TRUE,2.0356,"['bfs', 'graphs', 'graph_traversal']"
+7568,6,TRUE,1.787,"['bruteforcing', 'implementation']"
+7569,11,TRUE,2.4256,"['bfs', 'graphs', 'graph_traversal']"
+7576,11,TRUE,2.8721,"['bfs', 'graphs', 'graph_traversal']"
+7579,13,TRUE,2.6939,"['dp', 'knapsack']"
+7795,8,TRUE,1.9765,"['binary_search', 'sorting', 'two_pointer']"
+8320,4,TRUE,1.7122,"['implementation', 'math']"
+8393,3,TRUE,1.5321,"['implementation', 'math']"
+8394,8,TRUE,2.1639,"['dp', 'math']"
+8958,4,TRUE,2.007,"['implementation', 'string']"
+9012,7,TRUE,2.2536,"['data_structures', 'stack', 'string']"
+9084,11,TRUE,1.5304,"['dp', 'knapsack']"
+9095,8,TRUE,1.5753,['dp']
+9184,9,TRUE,2.3896,"['dp', 'recursion']"
+9205,10,TRUE,2.5903,"['bfs', 'graphs', 'graph_traversal']"
+9251,11,TRUE,2.4821,"['dp', 'string']"
+9316,3,TRUE,1.5482,['implementation']
+9461,8,TRUE,2.3773,"['dp', 'math']"
+9465,10,TRUE,2.1226,['dp']
+9498,1,TRUE,1.8035,['implementation']
+9507,8,TRUE,1.3673,['dp']
+9653,1,TRUE,1.3553,['implementation']
+9654,1,TRUE,1.7342,['implementation']
+9935,12,TRUE,4.2344,"['data_structures', 'stack', 'string']"
+10026,11,TRUE,1.7513,"['bfs', 'dfs', 'graphs', 'graph_traversal']"
+10163,5,TRUE,2.1875,['implementation']
+10170,1,TRUE,1.3782,['implementation']
+10171,1,TRUE,3.0608,['implementation']
+10172,1,TRUE,2.4598,['implementation']
+10250,3,TRUE,3.0015,"['arithmetic', 'implementation', 'math']"
+10430,1,TRUE,1.8514,"['implementation', 'arithmetic', 'math']"
+10699,1,TRUE,1.6415,['implementation']
+10709,6,TRUE,1.3052,"['implementation', 'simulation']"
+10718,1,TRUE,1.537,['implementation']
+10757,1,TRUE,2.0533,"['implementation', 'arbitrary_precision', 'arithmetic', 'math']"
+10773,7,TRUE,1.4834,"['data_structures', 'implementation', 'stack']"
+10797,2,TRUE,1.2205,['implementation']
+10804,4,TRUE,1.507,"['implementation', 'simulation']"
+10808,2,TRUE,1.4322,"['implementation', 'string']"
+10809,1,TRUE,1.8847,"['implementation', 'string']"
+10815,6,TRUE,2.0805,"['binary_search', 'data_structures', 'sorting']"
+10816,7,TRUE,2.8004,"['binary_search', 'data_structures', 'hash_set', 'sorting']"
+10817,3,TRUE,2.0847,['implementation']
+10818,3,TRUE,2.3381,"['implementation', 'math']"
+10844,10,TRUE,3.3956,['dp']
+10869,1,TRUE,2.0517,"['implementation', 'arithmetic', 'math']"
+10870,1,TRUE,1.6028,"['implementation', 'math', 'recursion']"
+10871,1,TRUE,1.8317,['implementation']
+10872,1,TRUE,1.9367,"['implementation', 'math', 'combinatorics']"
+10926,1,TRUE,1.8809,['implementation']
+10950,1,TRUE,1.717,"['implementation', 'arithmetic', 'math']"
+10951,1,TRUE,2.8229,"['implementation', 'arithmetic', 'math']"
+10952,1,TRUE,1.943,"['implementation', 'arithmetic', 'math']"
+10953,4,TRUE,1.4821,"['arithmetic', 'math', 'parsing', 'string']"
+10973,8,TRUE,1.6058,"['combinatorics', 'implementation', 'math']"
+10998,1,TRUE,1.2751,"['implementation', 'arithmetic', 'math']"
+11021,3,TRUE,2.0086,"['implementation', 'arithmetic', 'math']"
+11022,3,TRUE,1.443,"['implementation', 'arithmetic', 'math']"
+11048,9,TRUE,1.7315,['dp']
+11049,13,TRUE,2.259,['dp']
+11050,5,TRUE,1.5537,"['combinatorics', 'implementation', 'math']"
+11051,8,TRUE,2.6256,"['combinatorics', 'dp', 'math']"
+11052,10,TRUE,1.6385,['dp']
+11053,9,TRUE,2.679,['dp']
+11054,13,TRUE,1.9676,['dp']
+11057,10,TRUE,2.1087,['dp']
+11060,9,TRUE,2.8419,"['bfs', 'dp', 'graphs', 'graph_traversal']"
+11066,13,TRUE,1.9878,['dp']
+11283,2,TRUE,1.2666,['implementation']
+11328,4,TRUE,2.4505,"['implementation', 'string']"
+11382,1,TRUE,1.5345,"['implementation', 'arithmetic', 'math']"
+11478,8,TRUE,1.5837,"['data_structures', 'hash_set', 'string', 'tree_set']"
+11559,12,TRUE,2.6622,"['bfs', 'graphs', 'graph_traversal', 'implementation', 'simulation']"
+11576,6,TRUE,1.7665,"['implementation', 'math', 'number_theory']"
+11654,1,TRUE,1.2489,['implementation']
+11656,7,TRUE,1.4282,"['sorting', 'string']"
+11718,1,TRUE,3.5701,"['implementation', 'string']"
+11719,4,TRUE,1.7126,"['implementation', 'string']"
+11720,2,TRUE,1.8292,"['implementation', 'math', 'string']"
+11721,3,TRUE,1.8656,"['string', 'implementation']"
+11722,9,TRUE,1.5585,['dp']
+11723,6,TRUE,3.4088,"['bitmask', 'implementation']"
+11724,9,TRUE,2.3277,"['graphs', 'graph_traversal', 'bfs', 'dfs']"
+11725,9,TRUE,2.3667,"['graphs', 'graph_traversal', 'trees', 'bfs', 'dfs']"
+11726,8,TRUE,2.8038,['dp']
+11727,8,TRUE,1.6877,['dp']
+11866,6,TRUE,1.7503,"['data_structures', 'implementation', 'queue']"
+11942,1,TRUE,1.1801,['implementation']
+12015,14,TRUE,2.3601,"['binary_search', 'lis']"
+12849,10,TRUE,1.5681,"['dp', 'graphs']"
+12851,12,TRUE,3.8345,"['bfs', 'graphs', 'graph_traversal']"
+12865,11,TRUE,2.8346,"['dp', 'knapsack']"
+12904,11,TRUE,2.1505,"['greedy', 'implementation', 'string']"
+12906,13,TRUE,1.78,"['bfs', 'data_structures', 'graphs', 'graph_traversal', 'hash_set', 'tree_set']"
+13023,11,TRUE,3.4311,"['dfs', 'graphs', 'graph_traversal']"
+13235,4,TRUE,1.417,"['implementation', 'string']"
+13414,8,TRUE,4.357,"['data_structures', 'hash_set', 'implementation', 'tree_set']"
+13549,11,TRUE,3.8837,"['0_1_bfs', 'bfs', 'dijkstra', 'graphs', 'graph_traversal']"
+13565,9,TRUE,2.2549,"['bfs', 'dfs', 'graphs', 'graph_traversal']"
+13913,12,TRUE,3.1031,"['bfs', 'graphs', 'graph_traversal']"
+14003,16,TRUE,2.8664,"['binary_search', 'lis']"
+14226,12,TRUE,2.92,"['bfs', 'dp', 'graphs', 'graph_traversal']"
+14405,6,TRUE,2.0906,"['regex', 'string']"
+14425,8,TRUE,1.7892,"['data_structures', 'hash_set', 'string', 'tree_set']"
+14496,10,TRUE,2.2141,"['bfs', 'graphs', 'graph_traversal']"
+14499,12,TRUE,2.3116,"['implementation', 'simulation']"
+14500,11,TRUE,2.8268,"['bruteforcing', 'implementation']"
+14501,8,TRUE,2.0479,"['bruteforcing', 'dp']"
+14502,11,TRUE,1.8125,"['bfs', 'bruteforcing', 'graphs', 'graph_traversal', 'implementation']"
+14503,11,TRUE,1.861,"['implementation', 'simulation']"
+14607,8,TRUE,2.2167,"['dp', 'math']"
+14645,1,TRUE,1.1087,['implementation']
+14676,13,TRUE,3.1149,"['graphs', 'implementation', 'topological_sorting']"
+14681,1,TRUE,1.6144,"['implementation', 'geometry']"
+14699,11,TRUE,2.1674,"['dp', 'graphs']"
+14719,11,TRUE,1.8034,"['implementation', 'simulation']"
+14891,11,TRUE,1.8466,"['implementation', 'simulation']"
+15439,2,TRUE,1.119,"['implementation', 'combinatorics', 'math']"
+15552,2,TRUE,2.1858,"['implementation', 'arithmetic', 'math']"
+15596,4,TRUE,1.9786,"['arithmetic', 'implementation', 'math']"
+15624,7,TRUE,1.8366,"['dp', 'math']"
+15685,12,TRUE,1.8439,"['implementation', 'simulation']"
+15686,11,TRUE,2.2284,"['backtracking', 'bruteforcing', 'implementation']"
+15733,1,TRUE,1.1703,['implementation']
+15781,3,TRUE,1.1745,"['arithmetic', 'implementation', 'math']"
+15829,4,TRUE,3.2107,"['hashing', 'string']"
+15953,3,TRUE,2.7166,"['arithmetic', 'implementation', 'math']"
+15962,1,TRUE,1.1416,['implementation']
+15964,1,TRUE,1.6854,"['arithmetic', 'implementation', 'math']"
+15988,9,TRUE,2.8391,['dp']
+15990,9,TRUE,3.2027,['dp']
+16170,1,TRUE,1.3518,['implementation']
+16194,10,TRUE,1.311,['dp']
+16234,11,TRUE,2.7847,"['bfs', 'graphs', 'graph_traversal', 'implementation', 'simulation']"
+16235,13,TRUE,4.6259,"['implementation', 'simulation']"
+16236,13,TRUE,2.4082,"['bfs', 'graphs', 'graph_traversal', 'implementation', 'simulation']"
+16434,12,TRUE,3.5056,"['binary_search', 'implementation']"
+16503,3,TRUE,1.6533,"['arithmetic', 'implementation', 'math']"
+16916,10,TRUE,2.7262,"['kmp', 'string']"
+16928,11,TRUE,2.8971,"['bfs', 'graphs', 'graph_traversal']"
+16932,13,TRUE,3.0446,"['bfs', 'bruteforcing', 'dfs', 'graphs', 'graph_traversal']"
+16946,14,TRUE,3.9447,"['bfs', 'dfs', 'graphs', 'graph_traversal']"
+16948,10,TRUE,1.4377,"['bfs', 'graphs', 'graph_traversal']"
+16964,13,TRUE,2.5966,"['data_structures', 'dfs', 'graphs', 'graph_traversal']"
+17086,9,TRUE,2.0672,"['bfs', 'bruteforcing', 'graphs', 'graph_traversal']"
+17135,13,TRUE,3.1724,"['bruteforcing', 'implementation', 'simulation']"
+17144,12,TRUE,1.8561,"['implementation', 'simulation']"
+17256,1,TRUE,1.2447,"['arithmetic', 'implementation', 'math']"
+17406,12,TRUE,2.5403,"['backtracking', 'bruteforcing', 'implementation']"
+17413,8,TRUE,1.7584,"['data_structures', 'implementation', 'stack', 'string']"
+17419,7,TRUE,1.7804,"['bitmask', 'math', 'string']"
+17471,12,TRUE,2.6042,"['bfs', 'bruteforcing', 'dfs', 'graphs', 'graph_traversal']"
+17472,15,TRUE,3.1705,"['bfs', 'bruteforcing', 'dfs', 'graphs', 'graph_traversal', 'implementation', 'mst']"
+17478,6,TRUE,2.5976,"['implementation', 'recursion']"
+17528,16,TRUE,2.1318,"['dp', 'knapsack']"
+17609,11,TRUE,3.5573,"['implementation', 'string', 'two_pointer']"
+17614,3,TRUE,1.8,"['bruteforcing', 'implementation']"
+17616,13,TRUE,2.2027,"['bfs', 'dfs', 'graphs', 'graph_traversal']"
+17626,7,TRUE,2.1564,"['bruteforcing', 'dp']"
+18111,9,TRUE,3.9787,"['bruteforcing', 'implementation']"
+18352,9,TRUE,3.4922,"['bfs', 'dijkstra', 'graphs', 'graph_traversal']"
+19236,14,TRUE,1.5805,"['backtracking', 'implementation', 'simulation']"
+19237,14,TRUE,2.5983,"['implementation', 'simulation']"
+19238,13,TRUE,4.9845,"['bfs', 'graphs', 'graph_traversal', 'implementation', 'simulation']"
+19538,12,TRUE,2.454,"['bfs', 'graphs', 'graph_traversal']"
+20055,11,TRUE,1.7756,"['implementation', 'simulation']"
+20056,12,TRUE,2.816,"['implementation', 'simulation']"
+20057,13,TRUE,1.4277,"['implementation', 'simulation']"
+20061,14,TRUE,2.8624,"['implementation', 'simulation']"
+20205,5,TRUE,1.4135,['implementation']
+20207,10,TRUE,2.2212,"['greedy', 'implementation', 'sorting']"
+20209,13,TRUE,3.1308,"['bfs', 'data_structures', 'graphs', 'graph_traversal', 'hash_set']"
+20438,9,TRUE,3.4694,"['implementation', 'prefix_sum']"
+20923,10,TRUE,3.5495,"['data_structures', 'deque', 'implementation', 'simulation']"
+21608,11,TRUE,2.4781,['implementation']
+21609,14,TRUE,2.9519,"['bfs', 'dfs', 'graphs', 'graph_traversal', 'implementation', 'simulation']"
+21611,15,TRUE,4.2056,"['implementation', 'simulation']"
+21736,9,TRUE,1.7325,"['bfs', 'dfs', 'graphs', 'graph_traversal']"
+21756,4,TRUE,1.7494,"['implementation', 'math', 'simulation']"
+21964,4,TRUE,1.3504,['string']
+21966,6,TRUE,1.9641,"['case_work', 'implementation', 'string']"
+22955,13,TRUE,3.0545,"['dijkstra', 'graphs', 'implementation']"
+23027,4,TRUE,1.4669,"['implementation', 'string']"
+23061,12,TRUE,4.4375,"['dp', 'knapsack']"
+23303,4,TRUE,1.4976,"['implementation', 'string']"
+23305,7,TRUE,2.0991,"['greedy', 'implementation']"
+23813,4,TRUE,1.4459,"['arithmetic', 'implementation', 'math', 'string']"
+24509,6,TRUE,2.2667,"['implementation', 'sorting']"
+24510,4,TRUE,1.5886,"['implementation', 'string']"
+24725,8,TRUE,1.5485,"['bruteforcing', 'implementation', 'string']"
+25083,1,TRUE,2.1113,['implementation']
